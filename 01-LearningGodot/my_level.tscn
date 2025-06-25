@@ -5,5 +5,191 @@
 [node name="MyLevel" type="Node2D"]
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(591, 304)
+position = Vector2(427, 230)
+scale = Vector2(1.35938, 1.03125)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D2" type="Sprite2D" parent="."]
+position = Vector2(744, 235)
+scale = Vector2(1.35938, 1.03125)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D4" type="Sprite2D" parent="."]
+position = Vector2(391, 70.5)
+scale = Vector2(0.71875, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D5" type="Sprite2D" parent="."]
+position = Vector2(487, 72)
+scale = Vector2(0.71875, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D6" type="Sprite2D" parent="."]
+position = Vector2(586, 72)
+scale = Vector2(0.800069, 0.457181)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D7" type="Sprite2D" parent="."]
+position = Vector2(682, 73)
+scale = Vector2(0.71875, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D8" type="Sprite2D" parent="."]
+position = Vector2(781, 74)
+scale = Vector2(0.71875, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D9" type="Sprite2D" parent="."]
+position = Vector2(877, 98)
+rotation = 0.523599
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D10" type="Sprite2D" parent="."]
+position = Vector2(294, 104)
+rotation = -0.698765
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D11" type="Sprite2D" parent="."]
+position = Vector2(258.183, 196.771)
+rotation = -1.54406
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D12" type="Sprite2D" parent="."]
+position = Vector2(257.183, 278.771)
+rotation = -1.58802
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D13" type="Sprite2D" parent="."]
+position = Vector2(256.183, 362.771)
+rotation = -1.58802
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D25" type="Sprite2D" parent="."]
+position = Vector2(257, 488)
+rotation = -1.59523
+scale = Vector2(1.22402, 0.488279)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D32" type="Sprite2D" parent="."]
+position = Vector2(404, 498)
+rotation = -0.128853
+scale = Vector2(1.22402, 0.20177)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D33" type="Sprite2D" parent="."]
+position = Vector2(772, 496)
+rotation = 0.0913359
+scale = Vector2(1.22402, 0.147422)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D28" type="Sprite2D" parent="."]
+position = Vector2(924, 475)
+rotation = -1.59523
+scale = Vector2(1.16191, -0.571646)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D26" type="Sprite2D" parent="."]
+position = Vector2(333, 603)
+rotation = -2.78593
+scale = Vector2(-1.02129, 0.322263)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D29" type="Sprite2D" parent="."]
+position = Vector2(465, 627)
+rotation = -3.13014
+scale = Vector2(-1.02129, 0.322263)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D30" type="Sprite2D" parent="."]
+position = Vector2(600, 630)
+rotation = -3.13014
+scale = Vector2(-1.02129, 0.322263)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D31" type="Sprite2D" parent="."]
+position = Vector2(738, 630)
+rotation = -3.13014
+scale = Vector2(-1.02129, 0.322263)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D27" type="Sprite2D" parent="."]
+position = Vector2(873, 597)
+rotation = -3.61614
+scale = Vector2(-1.02129, 0.322263)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D16" type="Sprite2D" parent="."]
+position = Vector2(923.183, 194.771)
+rotation = -1.54406
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D17" type="Sprite2D" parent="."]
+position = Vector2(922.183, 276.771)
+rotation = -1.58802
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D18" type="Sprite2D" parent="."]
+position = Vector2(921.183, 360.771)
+rotation = -1.58802
+scale = Vector2(0.624109, 0.492187)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D19" type="Sprite2D" parent="."]
+position = Vector2(404, 550)
+rotation = 0.385268
+scale = Vector2(0.61531, 0.323448)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D20" type="Sprite2D" parent="."]
+position = Vector2(488, 573)
+rotation = 0.0204492
+scale = Vector2(0.61531, 0.323448)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D21" type="Sprite2D" parent="."]
+position = Vector2(566, 576)
+rotation = 0.0204492
+scale = Vector2(0.61531, 0.323448)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D22" type="Sprite2D" parent="."]
+position = Vector2(648, 579)
+rotation = 0.0204492
+scale = Vector2(0.61531, 0.323448)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D23" type="Sprite2D" parent="."]
+position = Vector2(729, 572)
+rotation = -0.178736
+scale = Vector2(0.61531, 0.323448)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D24" type="Sprite2D" parent="."]
+position = Vector2(808, 541)
+rotation = -0.607581
+scale = Vector2(0.60881, 0.319387)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D14" type="Sprite2D" parent="."]
+position = Vector2(159, 285)
+rotation = -1.58802
+scale = Vector2(1.46398, 1.05073)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D15" type="Sprite2D" parent="."]
+position = Vector2(1015, 291)
+rotation = -1.58802
+scale = Vector2(1.46398, 1.05073)
+texture = ExtResource("1_ftc11")
+
+[node name="Sprite2D3" type="Sprite2D" parent="."]
+position = Vector2(583, 390)
+scale = Vector2(2, 1.8125)
 texture = ExtResource("1_ftc11")
